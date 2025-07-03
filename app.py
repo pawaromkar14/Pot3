@@ -1,1 +1,1 @@
- print("Hello from CI pipeline!")  
+print("Hello from CI pipeline!")  
